@@ -3,11 +3,7 @@ package pruebadeoperadores;
 import java.util.Scanner;
 /**
  *
- * @author maryse
- * 
- * Programa pruebaDeOperadores y su flujo asociado. 
- * 
- */
+
 public class PruebaDeOperadores {
     
     
